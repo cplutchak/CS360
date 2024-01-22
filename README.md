@@ -1,4 +1,4 @@
-# CS360
-CS360 Assignments
+# CS361
+CS361 Assignments
 
 this is a test commit for assignment 2
